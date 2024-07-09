@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "710919413586",
+    "firebase_url": "https://final-hicky-default-rtdb.firebaseio.com",
+    "project_id": "final-hicky",
+    "storage_bucket": "final-hicky.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710919413586:android:8a29bb02df0e08fff6e48b",
+        "android_client_info": {
+          "package_name": "com.example.finalhicky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiMww4aS0zdmghb6aCVsqWuLNckRRjd4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
